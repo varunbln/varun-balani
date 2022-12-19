@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-balani&label=Profile%20views&color=0e75b6&style=flat" alt="varun-balani" /> </p>
 
-- 🔭 I’m currently working on [CShell](https://github.com/varun-balani/CShell)
+- 🔭 I’m currently working on [CShell](https://github.com/varun-balani/CShell) and [PlaylistBridge](https://github.com/varun-balani/PlaylistBridge)
 
-- 🌱 I’m currently learning **React, Golang**
+- 🌱 I’m currently learning **React and Keras**
 
 - 📫 How to reach me **varunprahladbalani@gmail.com**
 
