@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Prahlad Balani</h1>
-<h3 align="center">Innovative and efficient developer from India</h3>
+<h3 align="center">Student at Manipal Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-balani&label=Profile%20views&color=0e75b6&style=flat" alt="varun-balani" /> </p>
 
