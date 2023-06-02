@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-balani&label=Profile%20views&color=0e75b6&style=flat" alt="varun-balani" /> </p>
 
-- 🔭 I’m currently working on [CShell](https://github.com/varun-balani/CShell) and [Spring-Todo](https://github.com/varun-balani/springboot-todo)
+- 🔭 I’m currently working on [TypingTest](https://github.com/varun-balani/typing-test) and [Spring-Todo](https://github.com/varun-balani/springboot-todo)
 
 - 🌱 I’m currently learning **React and Keras**
 
