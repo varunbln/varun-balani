@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **varunprahladbalani@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-balani&show_icons=true&locale=en" alt="varun-balani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-balani&show_icons=true&locale=en&theme=tokyonight&hide_rank=true" alt="varun-balani" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
