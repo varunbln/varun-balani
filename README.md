@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TypingTest](https://github.com/varun-balani/typing-test) and [Spring-Todo](https://github.com/varun-balani/springboot-todo)
 
-- 🌱 I’m currently learning **React and Keras**
+- 🌱 I’m currently learning **React and SpringBoot**
 
 - 📫 How to reach me **varunprahladbalani@gmail.com**
 
