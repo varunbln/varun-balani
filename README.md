@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TypingTest](https://github.com/varun-balani/typing-test) and [Spring-Todo](https://github.com/varun-balani/springboot-todo)
 
-- 🌱 I’m currently learning **React and SpringBoot**
+- 🌱 My current tech stack is **Next.js and TailwindCSS**
 
 - 📫 How to reach me **varunprahladbalani@gmail.com**
 
