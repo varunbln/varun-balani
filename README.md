@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RapidProductShoots](https://github.com/varun-balani/rapidproductshoots) and [Ask-AI](https://github.com/varun-balani/ask-ai)
 
-- 🌱 My tech stack is **Next.js(with Typescript) and PostgreSQL**
+- 🌱 My tech stack is **Next.js with Tailwind and PostgreSQL**
 
 - 📫 How to reach me **varunprahladbalani@gmail.com**
 
