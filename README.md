@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-balani&label=Profile%20views&color=0e75b6&style=flat" alt="varun-balani" /> </p>
 
-- 🔭 I’m currently working on [RapidProductShoots](https://github.com/varun-balani/rapidproductshoots) and [Ask-AI](https://github.com/varun-balani/ask-ai)
+- 🔭 I’m currently working on [RapidProductShoots](https://rapidproductshoots.vercel.app/) and [Ask-AI](https://ask-ai.varunbalani.com/)
 
 - 🌱 My tech stack is **Next.js with Tailwind and PostgreSQL**
 
