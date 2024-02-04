@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-balani&label=Profile%20views&color=0e75b6&style=flat" alt="varun-balani" /> </p>
 
-- 🔭 I’m currently working on [RapidProductShoots](https://rapidproductshoots.vercel.app/) and [Ask-AI](https://ask-ai.varunbalani.com/)
+- 🔭 I’m currently working on [RapidProductShoots](https://rapidproductshoots.vercel.app/) and [Tip of My Tongue](https://tipofmytongue.varunbalani.com/)
 
-- 🌱 My tech stack is **Next.js with Tailwind and PostgreSQL**
+- 🌱 I'm flexible with my tech stack, but currently loving Next.js **
 
 - 📫 How to reach me **varunprahladbalani@gmail.com**
 
