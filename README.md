@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varun Prahlad Balani</h1>
+<h1 align="center">Hi 👋, I'm Varun Balani</h1>
 <h3 align="center">SDE Intern @ Fidelity Investments</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-balani&label=Profile%20views&color=0e75b6&style=flat" alt="varun-balani" /> </p>
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/varun-prahlad-balani-961438200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/varun-prahlad-balani-961438200/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/varun_balani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="varun_balani" height="30" width="40" /></a>
 </p>
 
 
