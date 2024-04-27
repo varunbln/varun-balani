@@ -7,13 +7,7 @@
 
 - 🌱 I'm flexible with my tech stack, but currently love using **Next.js**
 
-- 📫 How to reach me **varunprahladbalani@gmail.com**
+- 📫 How to reach me **varunprahladbalani@gmail.com** or <a href="https://www.linkedin.com/in/varun-prahlad-balani-961438200" />LinkedIn</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-balani&show_icons=true&locale=en&theme=tokyonight&hide_rank=true" alt="varun-balani" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/varun-prahlad-balani-961438200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/varun-prahlad-balani-961438200/" height="30" width="40" /></a>
-</p>
-
 
