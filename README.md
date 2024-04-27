@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RapidProductShoots](https://rapidproductshoots.vercel.app/) and [Tip of My Tongue](https://tipofmytongue.varunbalani.com/)
 
-- 🌱 I'm flexible with my tech stack, but currently loving **Next.js**
+- 🌱 I'm flexible with my tech stack, but currently love using **Next.js**
 
 - 📫 How to reach me **varunprahladbalani@gmail.com**
 
